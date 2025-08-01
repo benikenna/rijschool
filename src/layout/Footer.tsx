@@ -88,7 +88,7 @@ const Footer = () => {
                                             FaMapMarkerAlt as unknown as React.ElementType
                                         }
                                     />
-                                    <Text>Willemsweg 234, 6531DT Nijmengen</Text>
+                                    <Text>Willemsweg 234, 6531DT Nijmegen</Text>
                                 </HStack>
                             </VStack>
 
@@ -143,7 +143,7 @@ const Footer = () => {
                             </Heading>
                             <VStack align="start" spacing={1} fontSize="sm">
                                 {[
-                                    ["Autorijles", `/autorijschool-nijmengen`],
+                                    ["Autorijles", `/autorijschool-nijmegen`],
                                     // ["Motorrijles", `/motorrijles-apeldoorn`],
                                     // ["Theoriecursus", `/theoriecursus`],
                                     ["Spoedcursus", `/spoedcursus`],
@@ -242,7 +242,7 @@ const Footer = () => {
                                 ["Donderdag", "09:00–18:00"],
                                 ["Vrijdag", "09:00–18:00"],
                                 ["Zaterdag", "Gesloten/Proefles"],
-                                ["Zondag", "Gesloten/Proefles"]
+                                ["Zondag", "Gesloten"]
                             ].map(([day, time], i) => (
                                 <HStack
                                     key={i}

@@ -127,7 +127,7 @@ export default function Header() {
             asChildren: [
                 {
                     name: "Autorijles",
-                    onUse: () => navigate(`/autorijschool-nijmengen`)
+                    onUse: () => navigate(`/autorijschool-Nijmegen`)
                 },
                 { name: "Spoedcursus", onUse: () => navigate(`/spoedcursus`) },
                 // {

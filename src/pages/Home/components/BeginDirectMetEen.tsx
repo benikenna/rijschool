@@ -19,7 +19,7 @@ export default function BeginDirectMetEen({ region }: any) {
                             <Text fontSize="14px" py={2}>
                                 Wil je graag in één keer slagen voor je
                                 rijbewijs bij een erkende rijschool in
-                                Apeldoorn? Dan is RijSchool Traffic Opleidingen
+                                Nijmegen? Dan is RijSchool Traffic Opleidingen
                                 Autorijschool de juiste keuze voor jou. Bij onze
                                 verkeersschool draait alles om jou. We hebben
                                 zorgvuldig gekozen rijinstructeurs die er alles
@@ -41,7 +41,7 @@ export default function BeginDirectMetEen({ region }: any) {
                             </Text>
 
                             <Heading fontSize={"md"}>
-                                Bij de leukste rijschool in Nijmengen
+                                Bij de leukste rijschool in Nijmegen
                             </Heading>
 
                             <Text fontSize="14px" py={2}>
@@ -58,7 +58,7 @@ export default function BeginDirectMetEen({ region }: any) {
 
                             <Text fontSize="14px" py={2}>
                                 Ontmoet onze verkeersrijschool en volg rijlessen
-                                in Nijmengen. Vraag ons vandaag nog naar de
+                                in Nijmegen. Vraag ons vandaag nog naar de
                                 prijzen van de verschillende
                                 rijopleidingspakketten en ga zo snel mogelijk de
                                 weg op met een van onze docenten. Het regelen

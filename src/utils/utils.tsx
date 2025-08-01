@@ -10,7 +10,7 @@ export const camelCase = (text: string = '') => {
     return String(text).charAt(0).toLowerCase() + String(text).slice(1)
 }
 export function capCase(text: string = '', splitter: string = ' ') {
-    if (text === '' || text == null || text == 'null') {
+    if (text === '' || text === null || text === 'null') {
         return ''
     }
     let newStr = String(text).split(splitter)

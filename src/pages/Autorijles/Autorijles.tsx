@@ -15,7 +15,7 @@ function AutorijlesPage() {
         <Box w="100%">
             <CommonHero>
                 <Heading fontSize="5xl" mt={6} fontWeight="bold" color="white">
-                    Autorijles Nijmengen
+                    Autorijles Nijmegen
                 </Heading>
             </CommonHero>
 
@@ -47,7 +47,7 @@ function AutorijlesPage() {
 
 export default function Autorijles() {
     return (
-        <PageMainContainer title="Autorijles Nijmengen" description="">
+        <PageMainContainer title="Autorijles Nijmegen" description="">
             <AutorijlesPage />
         </PageMainContainer>
     );

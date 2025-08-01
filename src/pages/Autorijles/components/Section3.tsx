@@ -22,7 +22,7 @@ export default function Section3() {
                     leftContent={
                         <VStack align="start" p={5}>
                             <Heading size="xl">
-                                Automaat rijles Apeldoorn
+                                Automaat rijles Nijmegen
                             </Heading>
 
                             <Text fontSize="14px" py={2}>

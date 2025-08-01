@@ -25,12 +25,12 @@ export default function AutorijlesApeldoorn({ region }: any) {
                     leftContent={
                         <VStack align="start">
                             <Heading size="lg">
-                                Autorijles {region ? region : "Nijmengen"}
+                                Autorijles {region ? region : "Nijmegen"}
                             </Heading>
                             <Text fontSize="14px" py={2}>
                                 Wil jij je rijbewijs B halen bij RijSchool
                                 Traffic Opleidingen? Onze rijschool in{" "}
-                                {region ? region : "Nijmengen"} en omstreken
+                                {region ? region : "Nijmegen"} en omstreken
                                 geeft jou die kans in goed verzorgde lesauto’s
                                 met vakkundige instructeurs. Je mag bij ons al
                                 beginnen met je eerste rijles als je 16,5 jaar
@@ -80,11 +80,11 @@ export default function AutorijlesApeldoorn({ region }: any) {
                                 <Link
                                     color={"orange"}
                                     onClick={() =>
-                                        navigate(`/autorijschool-nijmengen`)
+                                        navigate(`/autorijschool-Nijmegen`)
                                     }
                                 >
                                     autorijschool in{" "}
-                                    {region ? region : "Nijmengen!"}
+                                    {region ? region : "Nijmegen!"}
                                 </Link>
                             </Text>
 

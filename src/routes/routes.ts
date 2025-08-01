@@ -129,7 +129,7 @@ const routeConfig = [
         layout: Layout,
     },
     {
-        path: "/autorijschool-nijmengen",
+        path: "/autorijschool-Nijmegen",
         component: Autorijles,
         auth: false,
         layout: Layout,

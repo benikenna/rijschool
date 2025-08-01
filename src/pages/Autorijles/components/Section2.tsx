@@ -25,7 +25,7 @@ export default function Section2() {
                     rightContent={
                         <VStack align="start" p={5}>
                             <Heading size="xl">
-                                Hangeschakeld rijles Apeldoorn
+                                Hangeschakeld rijles Nijmegen
                             </Heading>
 
                             <Text fontSize="14px" py={2}>

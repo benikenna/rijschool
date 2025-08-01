@@ -56,7 +56,7 @@ export default function Hero({ region }: any) {
                         </Text>
 
                         <Text mt={4} fontSize="md">
-                            Wij van Rijschool {region ? region : "Apeldoorn"}{" "}
+                            Wij van Rijschool {region ? region : "Nijmegen"}{" "}
                             geven jou de meest kwalitatieve rijopleidingen van
                             Nederland. Wij werken persoonsgericht en kijken naar
                             wat jij nodig hebt om je rijbewijs in één keer te

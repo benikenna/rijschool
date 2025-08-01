@@ -13,7 +13,7 @@ import { useNavigate } from 'react-router';
 import { Container } from '../../../styling/layout';
 
 const courses = [
-    {title: 'Autorijles', image: imagery, link: `/autorijschool-nijmengen`},
+    {title: 'Autorijles', image: imagery, link: `/autorijschool-Nijmegen`},
     // {title: 'Motorrijles', image: regionImg, link: `/motorrijles-apeldoorn`},
     {title: 'Spoedcursus', image: informatie3, link: `/spoedcursus`},
     // {title: 'Theoriecursus', image: region3Img, link: `/theoriecursus`},

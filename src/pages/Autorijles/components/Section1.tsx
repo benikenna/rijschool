@@ -15,7 +15,7 @@ export default function Section1() {
                         <VStack align="start">
                             <Heading size="xl">
                                 Haal je rijbewijs B bij RijSchool Traffic
-                                Opleidingen; de 1# autorijschool in Apeldoorn en
+                                Opleidingen; de 1# autorijschool in Nijmegen en
                                 omstreken!
                             </Heading>
 

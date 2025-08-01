@@ -31,7 +31,7 @@ export default function SpoedcursusApeldoorn({ region }: any) {
                         <VStack align="start">
                             <Heading size="lg">
                                 Spoedcursus rijbewijs{" "}
-                                {region ? region : "Nijmengen"}
+                                {region ? region : "Nijmegen"}
                             </Heading>
                             <Text fontSize="14px" py={2}>
                                 Kan je niet wachten en wil je zo snel mogelijk
@@ -79,7 +79,7 @@ export default function SpoedcursusApeldoorn({ region }: any) {
                                     onClick={() => navigate(`/spoedcursus`)}
                                 >
                                     spoedcursus rijbewijs{" "}
-                                    {region ? region : "Nijmengen"}{" "}
+                                    {region ? region : "Nijmegen"}{" "}
                                 </Link>
                                 voor meer informatie.
                             </Text>
