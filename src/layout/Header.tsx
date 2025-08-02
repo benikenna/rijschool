@@ -127,7 +127,7 @@ export default function Header() {
             asChildren: [
                 {
                     name: "Autorijles",
-                    onUse: () => navigate(`/autorijschool-Nijmegen`)
+                    onUse: () => navigate(`/autorijschool-nijmengen`)
                 },
                 { name: "Spoedcursus", onUse: () => navigate(`/spoedcursus`) },
                 // {
@@ -150,8 +150,8 @@ export default function Header() {
     const features = [
         { icon: FaHeart, text: "Altijd vriendelijk en geduldig" },
         { icon: FaThumbsUp, text: "Hoog slagingspercentage" },
-        { icon: FaMobileAlt, text: "Unieke leerling app" },
-        { icon: FaBolt, text: "Snel slagen" }
+      //  { icon: FaMobileAlt, text: "Unieke leerling app" },
+       // { icon: FaBolt, text: "Snel slagen" }
     ];
 
     return (
@@ -200,6 +200,14 @@ export default function Header() {
                                             color="#FF6B35"
                                         />
                                         <Text>{feat.text}</Text>
+                                        {i === 0 && (
+                                        <VStack ml="200px" align="flex-start" spacing={0}>
+                                            <HStack spacing={1} align="center">
+                                                <Icon as={FaBolt as React.ElementType} color="#FF6B35" />
+                                                <Text>Snel slagen</Text>
+                                            </HStack>
+                                             </VStack>
+        )}
                                     </HStack>
                                 ))}
                             </VStack>
