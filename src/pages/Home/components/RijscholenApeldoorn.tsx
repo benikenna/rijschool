@@ -4,7 +4,7 @@ import Section from "../../../common/Section";
 import { MdCheckCircleOutline, MdPhone } from "react-icons/md";
 import ContactBtns from "../../../common/Button/ContactBtns";
 
-import secImg from "../../../assets/img/informatie5.webp";
+import secImg from "../../../assets/img/picture1.jpeg";
 
 export default function RijscholenApeldoorn() {
     return (

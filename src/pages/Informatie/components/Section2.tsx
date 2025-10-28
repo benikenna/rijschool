@@ -3,7 +3,7 @@ import Section from "../../../common/Section";
 import { MdPhone } from "react-icons/md";
 import ContactBtns from "../../../common/Button/ContactBtns";
 
-import imagery from "../../../assets/img/informatie2.webp";
+import imagery from "../../../assets/img/picture1.jpeg";
 import { Container } from "../../../styling/layout";
 
 export default function Section2() {

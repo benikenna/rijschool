@@ -2,7 +2,7 @@ import { Box, Heading, Image, Text } from "@chakra-ui/react";
 import Section from "../../../common/Section";
 import ContactBtns from "../../../common/Button/ContactBtns";
 
-import imagery from "../../../assets/img/rijschool_img2.webp";
+import imagery from "../../../assets/img/picture5.jpeg";
 import { Container } from "../../../styling/layout";
 
 export default function Section2() {
