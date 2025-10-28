@@ -10,7 +10,7 @@ import {
 import { Container } from "../../../styling/layout";
 import Section from "../../../common/Section";
 
-import secImg from "../../../assets/img/informatie5.webp";
+import secImg from "../../../assets/img/picture5.jpeg";
 import { useNavigate } from "react-router";
 import { MdCheckCircleOutline, MdPhone } from "react-icons/md";
 import ContactBtns from "../../../common/Button/ContactBtns";

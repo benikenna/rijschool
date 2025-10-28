@@ -13,7 +13,7 @@ import {
     Icon
 } from "@chakra-ui/react";
 
-import heroImg from "../../../assets/img/hero-img.png";
+import heroImg from "../../../assets/img/landing.png";
 import { Container } from "../../../styling/layout";
 import TrialForm from "../../../common/Form/TrialFrom";
 import ContactBtns from "../../../common/Button/ContactBtns";

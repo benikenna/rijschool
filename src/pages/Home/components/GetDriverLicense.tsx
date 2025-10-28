@@ -10,8 +10,8 @@ import {
 } from "@chakra-ui/react";
 import { Container } from "../../../styling/layout";
 
-import informatie3 from "../../../assets/img/informatie3.webp";
-import region3Img from "../../../assets/img/region3_img.webp";
+import informatie3 from "../../../assets/img/picture2a.jpeg";
+import region3Img from "../../../assets/img/picture6.jpeg";
 import { useNavigate } from "react-router";
 
 export default function GetDriverLicense() {

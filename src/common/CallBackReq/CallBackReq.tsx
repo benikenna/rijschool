@@ -8,7 +8,7 @@ import {
   Text
 } from "@chakra-ui/react";
 
-import heroImg from "../../assets/img/overons_hero.jpeg";
+import heroImg from "../../assets/img/landing.png";
 import { Container } from "../../styling/layout";
 
 export default function CallBackReq() {

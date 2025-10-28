@@ -1,9 +1,9 @@
 import { Box, Button, Image, SimpleGrid, Text, VStack } from "@chakra-ui/react";
 import { Container } from "../../../styling/layout";
 
-import contact1 from "../../../assets/img/contact1.webp";
-import contact2 from "../../../assets/img/contact2.webp";
-import contact3 from "../../../assets/img/contact3.webp";
+import contact1 from "../../../assets/img/picture1.jpeg";
+import contact2 from "../../../assets/img/picture2a.jpeg";
+import contact3 from "../../../assets/img/picture2a.jpeg";
 
 export default function Section1() {
     const cards = [

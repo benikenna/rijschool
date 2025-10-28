@@ -13,7 +13,7 @@ import { MdCheckCircleOutline, MdPhone } from "react-icons/md";
 import { useNavigate } from "react-router";
 import ContactBtns from "../../../common/Button/ContactBtns";
 
-import secImg from "../../../assets/img/informatie5.webp";
+import secImg from "../../../assets/img/picture5.jpeg";
 
 export default function MotorrijschoolApeldoorn({ region }: any) {
     const navigate = useNavigate();

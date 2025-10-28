@@ -2,7 +2,7 @@ import { Box, Heading, Icon, Image, Text, VStack } from "@chakra-ui/react";
 import React from "react";
 import Section from "../../../common/Section";
 
-import regionImg from "../../../assets/img/region_img.webp";
+import regionImg from "../../../assets/img/picture6.jpeg";
 import { MdCheckCircleOutline, MdPhone } from "react-icons/md";
 import ContactBtns from "../../../common/Button/ContactBtns";
 import { Container } from "../../../styling/layout";

@@ -13,7 +13,7 @@ import {
     Icon
 } from "@chakra-ui/react";
 
-import heroImg from "../../assets/img/overons_hero.jpeg";
+import heroImg from "../../assets/img/landing.png";
 import { Container } from "../../styling/layout";
 import ContactBtns from "../Button/ContactBtns";
 import { MdPhone } from "react-icons/md";

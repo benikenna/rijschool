@@ -9,7 +9,7 @@ import {
 import Section from "../../../common/Section";
 import { MdCheckCircleOutline, MdPhone } from "react-icons/md";
 
-import imagery from "../../../assets/img/sec1.webp";
+import imagery from "../../../assets/img/picture4.jpeg";
 import ContactBtns from "../../../common/Button/ContactBtns";
 
 export default function Section1() {

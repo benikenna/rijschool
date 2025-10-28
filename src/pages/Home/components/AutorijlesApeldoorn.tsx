@@ -13,7 +13,7 @@ import { MdCheckCircleOutline, MdPhone } from "react-icons/md";
 import ContactBtns from "../../../common/Button/ContactBtns";
 import { useNavigate } from "react-router";
 
-import secImg from "../../../assets/img/informatie5.webp";
+import secImg from "../../../assets/img/picture7.jpeg";
 
 export default function AutorijlesApeldoorn({ region }: any) {
     const navigate = useNavigate();

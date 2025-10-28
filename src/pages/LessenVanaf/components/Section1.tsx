@@ -11,7 +11,7 @@ import Section from "../../../common/Section";
 import ContactBtns from "../../../common/Button/ContactBtns";
 import { MdPhone } from "react-icons/md";
 
-import imagery from "../../../assets/img/lessen_vanaf.webp";
+import imagery from "../../../assets/img/picture3a.jpeg";
 import googleReview from "../../../assets/img/google-reviews.webp";
 import { Container } from "../../../styling/layout";
 

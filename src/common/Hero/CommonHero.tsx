@@ -1,6 +1,6 @@
 import { Box } from "@chakra-ui/react";
 
-import heroImg from "../../assets/img/overons_hero.jpeg";//rijschool_img //overons_hero
+import heroImg from "../../assets/img/landing.png";//rijschool_img //overons_hero
 import { Container } from "../../styling/layout";
 
 export default function CommonHero({ children, Img }: any) {

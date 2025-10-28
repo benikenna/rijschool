@@ -9,7 +9,7 @@ import {
     VStack
 } from "@chakra-ui/react";
 
-import imagery from "../../../assets/img/lessen_vanaf.webp";
+import imagery from "../../../assets/img/picture3a.jpeg";
 import { MdCheckCircleOutline } from "react-icons/md";
 import { Container } from "../../../styling/layout";
 
