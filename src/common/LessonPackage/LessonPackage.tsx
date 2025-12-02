@@ -22,7 +22,6 @@ const package1 = [
         bg: "blue.600",
         features: [
             "10 rijlessen (5x blokuur 120 min)",
-            "€50,- pakket korting",
             "Direct beginnen",
             "Vanaf 16,5 jaar",
             "Goedkoper kan niet!"
@@ -36,7 +35,6 @@ const package1 = [
         bg: "orange.500",
         features: [
             "25 rijlessen (12x blokuur 100 min)",
-            "€50,- pakket korting",
             "Inclusief praktijkexamen",
             "Inclusief voorrijden",
             "Vanaf 16,5 jaar",
@@ -51,7 +49,6 @@ const package1 = [
         bg: "green.600",
         features: [
             "35 rijlessen (17x blokuur 100 min)",
-            "€50,- pakket korting",
             "Inclusief praktijkexamen",
             "Inclusief voorrijden",
             "Vanaf 16,5 jaar",
@@ -66,7 +63,6 @@ const package1 = [
         bg: "orange.600",
         features: [
             "45 rijlessen (22x blokuur 100 min)",
-            "€50,- pakket korting",
             "Inclusief tussentijdse toets",
             "Inclusief voorrijden",
             "Inclusief praktijkexamen",
@@ -87,7 +83,6 @@ const package2 = [
         bg: "orange.500",
         features: [
             "25 rijlessen (12x blokuur 100 min)",
-            "€50,- pakket korting",
             "Inclusief praktijkexamen",
             "Inclusief voorrijden",
             "Vanaf 16,5 jaar",
@@ -102,7 +97,6 @@ const package2 = [
         bg: "green.600",
         features: [
             "35 rijlessen (17x blokuur 100 min)",
-            "€50,- pakket korting",
             "Inclusief praktijkexamen",
             "Inclusief voorrijden",
             "Vanaf 16,5 jaar",
@@ -117,7 +111,6 @@ const package2 = [
         bg: "orange.600",
         features: [
             "45 rijlessen (22x blokuur 100 min)",
-            "€50,- pakket korting",
             "Inclusief tussentijdse toets",
             "Inclusief voorrijden",
             "Inclusief praktijkexamen",
@@ -150,7 +143,6 @@ const package3 = [
         bg: "orange.500",
         features: [
             "10 rijlessen (5x blokuur 100 min)",
-            "€50,- pakket korting",
             "Inclusief AVB examen"
         ],
         cta: "Direct aanmelden"
@@ -162,7 +154,6 @@ const package3 = [
         bg: "green.600",
         features: [
             "10 rijlessen (5x blokuur 100 min",
-            "€50,- pakket korting",
             "Inclusief AVD examen"
         ],
         cta: "Direct aanmelden"
