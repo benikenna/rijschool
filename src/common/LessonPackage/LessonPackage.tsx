@@ -16,43 +16,44 @@ import TrialForm from "../Form/TrialFrom";
 
 const package1 = [
     {
-        title: "Actiepakket",
-        subtitle: "Alleen voor beginnende leerlingen",
-        price: "€560",
-        bg: "blue.600",
-        features: [
-            "10 rijlessen (5x blokuur 120 min)",
-            "Direct beginnen",
-            "Vanaf 16,5 jaar",
-            "Goedkoper kan niet!"
-        ],
-        cta: "Direct aanmelden"
-    },
-    {
         title: "Starterspakket",
         subtitle: "Direct starten met lessen",
-        price: "€1625",
+        price: "€1700",
         bg: "orange.500",
         features: [
-            "25 rijlessen (12x blokuur 100 min)",
+            "25 rijlessen (13x blokuur 100 min)",
             "Inclusief praktijkexamen",
             "Inclusief voorrijden",
             "Vanaf 16,5 jaar",
-            "Betalen in termijnen"
+            "Betalen in 4 termijnen"
         ],
         cta: "Gratis proefles aanvragen"
     },
     {
         title: "Basispakket",
         subtitle: "Meest gekozen",
-        price: "€2175",
+        price: "€2204",
         bg: "green.600",
         features: [
-            "35 rijlessen (17x blokuur 100 min)",
+            "34 rijlessen (17x blokuur 100 min)",
             "Inclusief praktijkexamen",
             "Inclusief voorrijden",
             "Vanaf 16,5 jaar",
-            "Betalen in termijnen"
+            "Betalen in 4 termijnen"
+        ],
+        cta: "Gratis proefles aanvragen"
+    },
+    {
+        title: "Normaal  en meest gekozen pakket",
+        subtitle: "Meest gekozen",
+        price: "€2540",
+        bg: "green.600",
+        features: [
+            "40 rijlessen (20x blokuur 100 min)",
+            "Inclusief praktijkexamen",
+            "Inclusief voorrijden",
+            "Vanaf 16,5 jaar",
+            "Betalen in 4 termijnen"
         ],
         cta: "Gratis proefles aanvragen"
     },
@@ -62,14 +63,41 @@ const package1 = [
         price: "€3125",
         bg: "orange.600",
         features: [
-            "45 rijlessen (22x blokuur 100 min)",
+            "46 rijlessen (23x blokuur 100 min)",
             "Inclusief tussentijdse toets",
             "Inclusief voorrijden",
             "Inclusief praktijkexamen",
             "Inclusief gratis herexamen",
             "Inclusief theoriecursus",
             "Vanaf 16,5 jaar",
-            "Betalen in termijnen"
+            "Betalen in 4 termijnen"
+        ],
+        cta: "Gratis proefles aanvragen"
+    },
+    {
+        title: "Semi X L pakket ",
+        subtitle: "Complete rijopleiding met examengarantie",
+        price: "€3820",
+        bg: "orange.600",
+        features: [
+            "60 rijlessen (30x blokuur 100 min)",
+            "Inclusief tussentijdse toets",
+            "Inclusief voorrijden",
+            "Inclusief praktijkexamen",
+            "Inclusief gratis herexamen",
+            "Inclusief theoriecursus",
+            "Vanaf 16,5 jaar",
+            "Betalen in 4 termijnen"
+        ],
+        cta: "Gratis proefles aanvragen"
+    },
+    {
+        title: "XXL Rijlessen pakket ",
+        subtitle: "Complete rijopleiding met examengarantie",
+        price: "€56 per uur 50 minuteen (losles)",
+        bg: "green.600",
+        features: [
+           // "46 rijlessen (23x blokuur 100 min)"
         ],
         cta: "Gratis proefles aanvragen"
     }
