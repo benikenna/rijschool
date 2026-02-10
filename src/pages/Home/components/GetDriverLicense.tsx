@@ -12,7 +12,7 @@ import { Container } from "../../../styling/layout";
 
 import informatie3 from "../../../assets/img/picture2a.jpeg";
 import region3Img from "../../../assets/img/picture6.jpeg";
-import { useNavigate } from "react-router";
+import { useNavigate } from "react-router-dom";
 
 export default function GetDriverLicense() {
     const navigate = useNavigate();

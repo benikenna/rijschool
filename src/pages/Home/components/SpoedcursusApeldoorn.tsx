@@ -11,7 +11,7 @@ import { Container } from "../../../styling/layout";
 import Section from "../../../common/Section";
 
 import secImg from "../../../assets/img/picture1.jpeg";
-import { useNavigate } from "react-router";
+import { useNavigate } from "react-router-dom";
 import { MdCheckCircleOutline, MdPhone } from "react-icons/md";
 import ContactBtns from "../../../common/Button/ContactBtns";
 

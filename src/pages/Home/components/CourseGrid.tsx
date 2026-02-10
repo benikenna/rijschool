@@ -9,7 +9,7 @@ import imagery from "../../../assets/img/picture2a.jpeg";
 // import regionImg from "../../../assets/img/region_img.webp";
 import informatie3 from "../../../assets/img/picture5.jpeg";
 // import region3Img from "../../../assets/img/region3_img.webp";
-import { useNavigate } from 'react-router';
+import { useNavigate } from 'react-router-dom';
 import { Container } from '../../../styling/layout';
 
 const courses = [
