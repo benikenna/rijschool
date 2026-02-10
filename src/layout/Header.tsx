@@ -22,7 +22,6 @@ import {
 import {
     FaHeart,
     FaThumbsUp,
-    FaMobileAlt,
     FaBolt,
     FaBars,
     FaStar,
@@ -31,7 +30,7 @@ import {
     FaCar
 } from "react-icons/fa";
 import { MdLanguage } from "react-icons/md";
-import { useNavigate } from "react-router";
+import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { ElementColor } from "../constants/colors";
 import MenuDropdown from "../common/Menu/MenuDropdown";
