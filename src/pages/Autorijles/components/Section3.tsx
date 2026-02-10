@@ -1,6 +1,5 @@
 import {
     Box,
-    Button,
     Heading,
     Icon,
     Image,
@@ -9,7 +8,7 @@ import {
 } from "@chakra-ui/react";
 import { Container } from "../../../styling/layout";
 import Section from "../../../common/Section";
-import { MdCheckCircleOutline, MdPhone } from "react-icons/md";
+import { MdPhone } from "react-icons/md";
 
 import imagery from "../../../assets/img/picture4.jpeg";
 import ContactBtns from "../../../common/Button/ContactBtns";

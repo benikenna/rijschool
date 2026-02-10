@@ -18,7 +18,7 @@ import { Container } from "../../styling/layout";
 import ContactBtns from "../Button/ContactBtns";
 import { MdPhone } from "react-icons/md";
 
-export default function ReqTrialLesson({ region }: any) {
+export default function ReqTrialLesson({}:any) {
     return (
         <Box
             bgImage={heroImg}

@@ -1,4 +1,4 @@
-import { Box, Button, Heading, Icon, Image, Text } from "@chakra-ui/react";
+import { Box, Heading, Icon, Image, Text } from "@chakra-ui/react";
 import Section from "../../../common/Section";
 import { MdPhone } from "react-icons/md";
 import ContactBtns from "../../../common/Button/ContactBtns";

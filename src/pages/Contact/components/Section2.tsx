@@ -12,7 +12,7 @@ import {
 import Section from "../../../common/Section";
 
 import Map from "../../../common/Map/Map";
-import emailjs from "@emailjs/browser";
+// import emailjs from "@emailjs/browser";
 import { useState } from "react";
 
 export default function Section2() {

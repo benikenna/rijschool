@@ -151,57 +151,57 @@ const package2 = [
     }
 ];
 
-const package3 = [
-    {
-        title: "Start and Go",
-        subtitle: "Voor een snelle start",
-        price: "€500",
-        bg: "blue.600",
-        features: [
-            "10 rijlessen (5x blokuur 100 min)",
-            "€100,- pakket korting",
-            "Direct beginnen"
-        ],
-        cta: "Direct aanmelden"
-    },
-    {
-        title: "AVB pakket",
-        subtitle: "Voertuigbeheersing",
-        price: "€700",
-        bg: "orange.500",
-        features: [
-            "10 rijlessen (5x blokuur 100 min)",
-            "Inclusief AVB examen"
-        ],
-        cta: "Direct aanmelden"
-    },
-    {
-        title: "AVD pakket",
-        subtitle: "Verkeersdeelneming",
-        price: "€800",
-        bg: "green.600",
-        features: [
-            "10 rijlessen (5x blokuur 100 min",
-            "Inclusief AVD examen"
-        ],
-        cta: "Direct aanmelden"
-    },
-    {
-        title: "READY TO RIDE",
-        subtitle: "Actiepakket",
-        price: "€1500",
-        bg: "orange.600",
-        features: [
-            "20 rijlessen (10x blokuur 100 min)",
-            "€100,- pakket korting",
-            "Inclusief GRATIS proefles",
-            "Inclusief AVB examen",
-            "Inclusief AVD examen",
-            "Betalen in 2 termijnen mogelijk"
-        ],
-        cta: "Gratis proefles aanvragen"
-    }
-];
+// const package3 = [
+//     {
+//         title: "Start and Go",
+//         subtitle: "Voor een snelle start",
+//         price: "€500",
+//         bg: "blue.600",
+//         features: [
+//             "10 rijlessen (5x blokuur 100 min)",
+//             "€100,- pakket korting",
+//             "Direct beginnen"
+//         ],
+//         cta: "Direct aanmelden"
+//     },
+//     {
+//         title: "AVB pakket",
+//         subtitle: "Voertuigbeheersing",
+//         price: "€700",
+//         bg: "orange.500",
+//         features: [
+//             "10 rijlessen (5x blokuur 100 min)",
+//             "Inclusief AVB examen"
+//         ],
+//         cta: "Direct aanmelden"
+//     },
+//     {
+//         title: "AVD pakket",
+//         subtitle: "Verkeersdeelneming",
+//         price: "€800",
+//         bg: "green.600",
+//         features: [
+//             "10 rijlessen (5x blokuur 100 min",
+//             "Inclusief AVD examen"
+//         ],
+//         cta: "Direct aanmelden"
+//     },
+//     {
+//         title: "READY TO RIDE",
+//         subtitle: "Actiepakket",
+//         price: "€1500",
+//         bg: "orange.600",
+//         features: [
+//             "20 rijlessen (10x blokuur 100 min)",
+//             "€100,- pakket korting",
+//             "Inclusief GRATIS proefles",
+//             "Inclusief AVB examen",
+//             "Inclusief AVD examen",
+//             "Betalen in 2 termijnen mogelijk"
+//         ],
+//         cta: "Gratis proefles aanvragen"
+//     }
+// ];
 
 const package4 = [
     {

@@ -6,7 +6,7 @@ import ContactBtns from "../../../common/Button/ContactBtns";
 
 import secImg from "../../../assets/img/picture2a.jpeg";
 
-export default function BeginDirectMetEen({ region }: any) {
+export default function BeginDirectMetEen({  }: any) {
     return (
         <Container>
             <Box my={10}>

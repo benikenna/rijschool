@@ -4,12 +4,6 @@ import {
     VStack,
     Text,
     Heading,
-    Input,
-    Select,
-    Textarea,
-    Button,
-    SimpleGrid,
-    Stack,
     Icon
 } from "@chakra-ui/react";
 

@@ -9,7 +9,7 @@ import {
 } from "@chakra-ui/react";
 import { capCase } from "../../utils/utils";
 import { useState } from "react";
-import emailjs from "@emailjs/browser";
+// import emailjs from "@emailjs/browser";
 
 export default function TrialForm() {
     const toast = useToast();

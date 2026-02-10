@@ -6,7 +6,6 @@ import ReqTrialLesson from "../../common/ReqTrialLesson/ReqTrialLesson";
 import LessonPackage from "../../common/LessonPackage/LessonPackage";
 import CallBackReq from "../../common/CallBackReq/CallBackReq";
 import Section1 from "./components/Section1";
-import Reviews from "../Home/components/Reviews";
 
 function TheoriecursusPage() {
     return (

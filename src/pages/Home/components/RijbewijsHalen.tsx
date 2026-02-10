@@ -6,7 +6,7 @@ import secImg from "../../../assets/img/picture1.jpeg";
 import { MdPhone } from "react-icons/md";
 import ContactBtns from "../../../common/Button/ContactBtns";
 
-export default function RijbewijsHalen({ region }: any) {
+export default function RijbewijsHalen({  }: any) {
     return (
         <Container>
             <Box my={10}>

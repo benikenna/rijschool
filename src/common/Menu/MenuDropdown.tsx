@@ -2,7 +2,7 @@ import React, { MouseEventHandler } from 'react'
 import { Menu, MenuButton, MenuList, MenuItem, Text, HStack, Flex, Box, BoxProps } from '@chakra-ui/react'
 import { RiArrowDropDownLine } from "react-icons/ri";
 import { IconType } from 'react-icons'
-import { ElementColor } from '../../constants/colors';
+// import { ElementColor } from '../../constants/colors';
 
 export interface MenuOptionProps {
     name: string;
