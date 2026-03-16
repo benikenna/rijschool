@@ -22,7 +22,7 @@ export default function Section1() {
                         <Heading size="lg">
                             Actie! De eerste 10 lessen voor maar
                             <Text ml={1} as="span" color="#00AEEF">
-                                €560,-
+                                €570.25,-
                             </Text>
                         </Heading>
 
@@ -56,8 +56,8 @@ export default function Section1() {
                         <VStack align="start" pt={2}>
                             {[
                                 "Goedkoopste van Nederland",
-                                "10 rijlessen (5 blokuren van 120 min)",
-                                "€56,- per rijles",
+                                "10 rijlessen (5 blokuren van 100 min)",
+                                "€57.25,- per uur",
                                 "Beperkt aantal plekken beschikbaar"
                             ].map((item, i) => (
                                 <Text key={i} fontSize={["14px", "12px"]}>
