@@ -16,26 +16,26 @@ import TrialForm from "../Form/TrialFrom";
 
 const package1 = [
     {
-        title: "Starterspakket",
+        title: "Ervaren bestuurder",
         subtitle: "Direct starten met lessen",
-        price: "€1700",
+        price: "€1850",
         bg: "orange.500",
         features: [
-            "25 rijlessen (13x blokuur 100 min)",
+            "25 rijlessen (13x blokuur 100 minuten)",
             "Inclusief praktijkexamen",
             "Inclusief voorrijden",
             "Vanaf 16,5 jaar",
-            "Betalen in 4 termijnen"
+            "Betalen in 4 termijnen"    
         ],
         cta: "Gratis proefles aanvragen"
     },
     {
         title: "Basispakket",
         subtitle: "Meest gekozen",
-        price: "€2204",
+        price: "€2408",
         bg: "green.600",
         features: [
-            "34 rijlessen (17x blokuur 100 min)",
+            "34 rijlessen (17x blokuur 200 minuten)",
             "Inclusief praktijkexamen",
             "Inclusief voorrijden",
             "Vanaf 16,5 jaar",
@@ -46,7 +46,7 @@ const package1 = [
     {
         title: "Normaal  en meest gekozen pakket",
         subtitle: "Meest gekozen",
-        price: "€2540",
+        price: "€2780",
         bg: "green.600",
         features: [
             "40 rijlessen (20x blokuur 100 min)",
@@ -60,7 +60,7 @@ const package1 = [
     {
         title: "GARANTIEPAKKET",
         subtitle: "Complete rijopleiding met examengarantie",
-        price: "€3125",
+        price: "€3152",
         bg: "orange.600",
         features: [
             "46 rijlessen (23x blokuur 100 min)",
@@ -77,7 +77,7 @@ const package1 = [
     {
         title: "Semi X L pakket ",
         subtitle: "Complete rijopleiding met examengarantie",
-        price: "€3820",
+        price: "€4020",
         bg: "orange.600",
         features: [
             "60 rijlessen (30x blokuur 100 min)",
@@ -94,10 +94,10 @@ const package1 = [
     {
         title: "XXL Rijlessen pakket ",
         subtitle: "Complete rijopleiding met examengarantie",
-        price: "€56 per uur 50 minuteen (losles)",
+        price: "€62 per uur 50 minuteen (losse les)",
         bg: "green.600",
         features: [
-           // "46 rijlessen (23x blokuur 100 min)"
+            "Tot leerling klaar bent en instructeur advies tot cbr examen"
         ],
         cta: "Gratis proefles aanvragen"
     }
