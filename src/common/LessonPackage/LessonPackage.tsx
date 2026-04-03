@@ -35,7 +35,7 @@ const package1 = [
         price: "€2408",
         bg: "green.600",
         features: [
-            "34 rijlessen (17x blokuur 200 minuten)",
+            "34 rijlessen (17x blokuur 100 minuten)",
             "Inclusief praktijkexamen",
             "Inclusief voorrijden",
             "Vanaf 16,5 jaar",
